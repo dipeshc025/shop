@@ -10,7 +10,6 @@ import ProductEdit from './features/admin/ProductEdit/ProductEdit';
 import ProductDetail from './features/product/ProductDetail';
 import AdminRoute from './ui/AdminRoute';
 import CartPage from './features/cart/CartPage';
-
 import ProfileMain from './features/user/ProfileMain';
 import OrderDetail from './features/order/OrderDetail';
 import UserRoute from './ui/UserRoute';
